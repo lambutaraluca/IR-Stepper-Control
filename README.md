@@ -2,8 +2,11 @@
 
 Project components: 
 o	HW-131 power supply, 
-o	Hall current sensor module
+
+o	Hall current sensor module,
+
 o	Stepper motor,
+
 o	ULN2003 driver,
 o	5V relay,
 o	IR sensor,
