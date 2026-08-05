@@ -13,7 +13,8 @@
 		2.	the barrier position is at 90 degrees while the IR sensor is in HIGH state (not detecting anything after the object passed by).
 
 
- 	o	Safe and efficient power system – for the stepper motor to receive power only when needed, it's driver is carefully controlled. This step required a relay, transistor, 1k resistor and one 1n4007 diode.
+ 	o	Safe and efficient power system – for the stepper motor to receive power only when needed, it's driver is carefully controlled. 
+		This step required a relay, transistor, 1k resistor and one 1n4007 diode.
   
 		1.	The transistor is used as a switch, along with the resistor, which is used for safety reasons like limiting the current, is connected to an Arduino digital pin. Using an NPN transistor the logic is LOW-Side-Switching.
 	
