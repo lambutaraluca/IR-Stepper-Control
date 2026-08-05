@@ -2,6 +2,7 @@
 
 
 __The IR-Stepper-Control project is designed to operate safely and efficiently.__
+
 __It can be integrated into a smart parking system, industrial belt conveyors or automated people counter for retail stores.__
 
 __This project's purposes are:__
