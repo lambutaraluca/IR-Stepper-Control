@@ -26,7 +26,6 @@ This project's purposes are:
 3.	Depending on the current value one led will light up and a message will be displayed on the OLED. When a dangerous value is read, red led lights up, also the buzzer generates a short sound.
 
 
-
     Project’s components: 
 
   o	HW-131 power supply, 
