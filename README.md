@@ -1,9 +1,8 @@
 # AutoPass-Sensor
 
 
-**The IR-Stepper-Control project is designed to operate safely and efficiently. 
-It can be integrated into a smart parking system, industrial belt conveyors or automated people counter for retail stores.
-**
+__The IR-Stepper-Control project is designed to operate safely and efficiently. 
+It can be integrated into a smart parking system, industrial belt conveyors or automated people counter for retail stores.__
 
 	This project's purposes are:
 
