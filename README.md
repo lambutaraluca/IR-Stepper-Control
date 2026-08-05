@@ -1,4 +1,4 @@
-# AutoPass-Sensor
+# IR-Stepper-Control
 
 
 ### __The IR-Stepper-Control project is designed to operate safely and efficiently.__
