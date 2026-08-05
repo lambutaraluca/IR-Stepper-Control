@@ -27,7 +27,7 @@ It can be integrated into a smart parking system, industrial belt conveyors or a
 
 
 
-Project’s components: 
+__Project’s components:__
 
   o	HW-131 power supply, 
 
