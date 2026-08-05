@@ -1,13 +1,18 @@
 # AutoPass-Sensor
 
 
-__The IR-Stepper-Control project is designed to operate safely and efficiently.__
+## __The IR-Stepper-Control project is designed to operate safely and efficiently.__
 
-__It can be integrated into a smart parking system, industrial belt conveyors or automated people counter for retail stores.__
+## __It can be integrated into a smart parking system, industrial belt conveyors or automated people counter for retail stores.__
 
-__This project's purposes are:__
+## __This project's purposes are:__
 
-  	o	Appropriate barrier movement – the motor starts working only in two cases. First one, if an object was detected by the IR sensor and the barrier position is at 0 degrees or the barrier position is at 90 degrees while the IR sensor is in HIGH state (not detecting anything after the object passed by).
+  	o	Appropriate barrier movement – the motor starts working only in two cases: 
+	
+		1.	an object was detected by the IR sensor and the barrier position is at 0 degrees, 
+		
+		2.	the barrier position is at 90 degrees while the IR sensor is in HIGH state (not detecting anything after the object passed by).
+
 
  	o	Safe and efficient power system – for the stepper motor to receive power only when needed, it's driver is carefully controlled. This step required a relay, transistor, 1k resistor and one 1n4007 diode.
   
