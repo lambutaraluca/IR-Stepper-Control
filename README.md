@@ -29,26 +29,26 @@ It can be integrated into a smart parking system, industrial belt conveyors or a
 
 __Project’s components:__
 
-  o	HW-131 power supply, 
+  	o	HW-131 power supply, 
 
-  o	Hall current sensor module,
+  	o	Hall current sensor module,
 
-  o	Stepper motor,
+  	o	Stepper motor,
 
-  o	ULN2003 driver,
+  	o	ULN2003 driver,
 
-  o	5V relay,
+  	o	5V relay,
 
-  o	IR sensor,
+  	o	IR sensor,
 
-  o	OLED display,
+  	o	OLED display,
 
-  o	Active buzzer,
+  	o	Active buzzer,
 
-  o	BD139 NPN transistor,
+  	o	BD139 NPN transistor,
 
-  o	1k ohm resistor,
+  	o	1k ohm resistor,
 
-  o	1n4007 diode,
+  	o	1n4007 diode,
 
-  o	3 x 202 ohms resistor.
+  	o	3 x 202 ohms resistor.
