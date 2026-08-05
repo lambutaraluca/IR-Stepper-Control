@@ -15,7 +15,7 @@ const int pasirotire90=512;
 const float sensibilitate=0.022;
 const float vRef=2.5;
 const float intVref=5.0;
-const float ADC_RES = 4095.0; // mod 12 biti
+const float ADC_RES = 4095.0; 
 
 const int adresaEEPROM = 0;
 bool pozitie90=false;
@@ -47,8 +47,8 @@ void setup() {
   Serial.begin(9600);
   delay(1000);
   motor.setSpeed(10);
-  analogReference(AR_DEFAULT); //ref scara 5V
-  analogReadResolution(12); // precizie foarte mare 12 biti
+  analogReference(AR_DEFAULT); 
+  analogReadResolution(12); 
   delay(2000);
 
   if(!oled.begin(SSD1306_SWITCHCAPVCC, 0X3C)){
@@ -82,7 +82,7 @@ void setup() {
   oled.print("Raspuns (da/nu):");
   oled.display();
 
-  while (Serial.available() == 0) {} //astept pana se apasa Enter
+  while (Serial.available() == 0) {} 
 
   String raspuns=Serial.readStringUntil('\n');
   raspuns.trim();
