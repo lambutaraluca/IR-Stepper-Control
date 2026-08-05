@@ -17,16 +17,17 @@ It can be integrated into a smart parking system, industrial belt conveyors or a
 		3.	The driver is supplied with power and the stepper motor turns. 
 
   
-  o	Current monitoring, event counter and system states:
+  	o	Current monitoring, event counter and system states:
 
-1.	The driver's VCC wire is passed through the Hall sensor module's hole to measure current,
+		1.	The driver's VCC wire is passed through the Hall sensor module's hole to measure current,
    
-2.	As the barrier goes up, the counter will be incremented. If the system is powered after being disconnected for a while a question will pop up on the display, “Doresti resetarea memoriei? (da/nu)”. If “da” the counter is automatically reset to zero, using the EEPROM memory, if “no” counting starts from the previous value it had,
+		2.	As the barrier goes up, the counter will be incremented. If the system is powered after being disconnected for a while a question will pop up on the display, “Doresti resetarea memoriei? (da/nu)”. If “da” the counter is automatically reset to zero, using the EEPROM memory, if “no” counting starts from the previous value it had,
    
-3.	Depending on the current value one led will light up and a message will be displayed on the OLED. When a dangerous value is read, red led lights up, also the buzzer generates a short sound.
+		3.	Depending on the current value one led will light up and a message will be displayed on the OLED. When a dangerous value is read, red led lights up, also the buzzer generates a short sound.
 
 
-    Project’s components: 
+
+    	Project’s components: 
 
   o	HW-131 power supply, 
 
