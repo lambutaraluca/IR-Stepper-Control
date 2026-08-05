@@ -1,32 +1,32 @@
 # AutoPass-Sensor
 
-  Project’s components: 
+    Project’s components: 
 
-o	HW-131 power supply, 
+  o	HW-131 power supply, 
 
-o	Hall current sensor module,
+  o	Hall current sensor module,
 
-o	Stepper motor,
+  o	Stepper motor,
 
-o	ULN2003 driver,
+  o	ULN2003 driver,
 
-o	5V relay,
+  o	5V relay,
 
-o	IR sensor,
+  o	IR sensor,
 
-o	OLED display,
+  o	OLED display,
 
-o	Active buzzer,
+  o	Active buzzer,
 
-o	BD139 NPN transistor,
+  o	BD139 NPN transistor,
 
-o	1k ohm resistor,
+  o	1k ohm resistor,
 
-o	1n4007 diode,
+  o	1n4007 diode,
 
-o	3 x 202 ohms resistor.
+  o	3 x 202 ohms resistor.
 
-  This project's purposes are:
+    This project's purposes are:
 
   o	Appropriate barrier movement – the motor starts working only in two cases. First one, if an object was detected by the IR sensor and the barrier position is at 0         degrees or the barrier position is at 90 degrees while the IR sensor is in HIGH state (not detecting anything after the object passed by).
 
