@@ -3,7 +3,8 @@
 	The IR-Stepper-Control project is designed to operate safely and efficiently. 
 	It can be integrated into a smart parking system, industrial belt conveyors or automated people counter for retail stores.
 
-    This project's purposes are:
+
+	This project's purposes are:
 
   o	Appropriate barrier movement – the motor starts working only in two cases. First one, if an object was detected by the IR sensor and the barrier position is at 0 degrees or the barrier position is at 90 degrees while the IR sensor is in HIGH state (not detecting anything after the object passed by).
 
