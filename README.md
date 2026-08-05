@@ -31,15 +31,15 @@ __Project’s components:__
 
   	o	HW-131 power supply, 
 
-  	o	Hall current sensor module,
+  	o	WCS1800 Hall current sensor module,
 
-  	o	Stepper motor,
+  	o	28BYJ-48 stepper motor,
 
   	o	ULN2003 driver,
 
-  	o	5V relay,
+  	o	SRD-05VDC-SL-C relay,
 
-  	o	IR sensor,
+  	o	IR infrared obstacle avoidance sensor module,
 
   	o	OLED display,
 
